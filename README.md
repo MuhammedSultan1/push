@@ -9,3 +9,7 @@ Isn't that cool?
 ## this is a subheading!!!
 
 wow!
+
+## this is the THIRD FEATURE!
+
+hi!
